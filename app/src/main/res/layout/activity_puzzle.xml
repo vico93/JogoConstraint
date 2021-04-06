@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/fundo_velha"
-    tools:context=".MainActivity">
+    tools:context=".Puzzle">
 
     <TextView
         android:id="@+id/textView"
